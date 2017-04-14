@@ -32,13 +32,13 @@ the Planetary Technology Standard, or the RFC process itself. What constitutes a
 on what part of the standard you are proposing to change, but may include the
 following.
 
-   - ?.
-   - ?
+   - Change to the content of the text
 
 Some changes do not require an RFC:
 
-   - ?.
-   - ?.
+   - Refrasing
+   - Formatting
+   - Fixes of grammatical errors
 
 If you submit a pull request to implement a change without going
 through the RFC process, it may be closed with a polite request to
@@ -47,7 +47,7 @@ submit an RFC first.
 For more details on when an RFC is required, please see the following specific
 guideline:
 
-* [PlanetaryTechnologyStandard changes](standard_changes.md)
+* [Planetary Technology Standard changes](standard_changes.md)
 
 
 ## Before creating an RFC
@@ -60,9 +60,9 @@ can be demotivating for the unprepared contributor. Laying some
 groundwork ahead of the RFC can make the process smoother.
 
 Although there is no single way to prepare for submitting an RFC, it
-is generally a good idea to pursue feedback from other project
-developers beforehand, to ascertain that the RFC may be desirable:
-having a consistent impact on the project requires concerted effort
+is generally a good idea to pursue feedback from other comunity members
+beforehand, to ascertain that the RFC may be desirable:
+having a consistent impact on the standard requires concerted effort
 toward consensus-building.
 
 The most common preparations for writing and submitting an RFC include
@@ -82,7 +82,7 @@ is a good indication that the RFC is worth pursuing.
 ## What the process is
 [What the process is]: #what-the-process-is
 
-In short, to get a major change added to the Standard, one must first get the
+In short, to get a major change added to the standard, one must first get the
 RFC merged into the RFC repo as a markdown file. At that point the RFC
 is 'active' and may be implemented with the goal of eventual inclusion
 into the Standard.
@@ -104,7 +104,7 @@ process, who will help to move the RFC forward, and ensure that the right people
 see and review it.
 * Build consensus and integrate feedback. RFCs that have broad support are much
 more likely to make progress than those that don't receive any comments. The
-shepherd assigned to your RFC should help you get feedback from Planetary Technology members
+shepherd assigned to your RFC should help you get feedback from community members
 as well.
 * The shepherd may schedule meetings with the author and/or relevant
 stakeholders to discuss the issues in greater detail.
