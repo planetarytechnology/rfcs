@@ -2,7 +2,7 @@
 
 Pretty much every change to the standard needs an RFC.
 
-Stamdard RFCs are managed by the standard sub-team, and tagged `T-standard`. The
+Standard RFCs are managed by the standard sub-team, and tagged `T-standard`. The
 standard sub-team will do an initial triage of new PRs within a week of
 submission. The result of triage will either be that the PR is assigned to a
 member of the sub-team for shepherding, the PR is closed as postponed because
