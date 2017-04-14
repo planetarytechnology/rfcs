@@ -36,7 +36,7 @@ following.
 
 Some changes do not require an RFC:
 
-   - Refrasing
+   - Rephrasing
    - Formatting
    - Fixes of grammatical errors
 
