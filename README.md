@@ -55,7 +55,7 @@ guideline:
 
 A hastily-proposed RFC can hurt its chances of acceptance. Low quality
 proposals, proposals for previously-rejected features, or those that
-don't fit into the near-term roadmap, may be quickly rejected, which
+don't fit into the near-term [roadmap], may be quickly rejected, which
 can be demotivating for the unprepared contributor. Laying some
 groundwork ahead of the RFC can make the process smoother.
 
@@ -77,6 +77,7 @@ is a good indication that the RFC is worth pursuing.
 
 [issues]: https://github.com/planetarytechnology/rfcs/issues
 [discuss]: https://discuss.planetary.technology
+[roadmap]: https://planetary.technology.roadmap.html
 
 
 ## What the process is
@@ -134,7 +135,7 @@ RFC is up to the sub-team.
 [The role of the shepherd]: #the-role-of-the-shepherd
 
 During triage, every RFC will either be closed or assigned a shepherd from the
-relevant sub-team. The role of the shepherd is to move the RFC through the
+relevant [sub-team]. The role of the shepherd is to move the RFC through the
 process. This starts with simply reading the RFC in detail and providing initial
 feedback. The shepherd should also solicit feedback from people who are likely
 to have strong opinions about the RFC. When this feedback has been incorporated
@@ -215,7 +216,7 @@ marked as such because we want neither to think about evaluating the proposal
 nor about implementing the described change until some time in the future, and
 we believe that we can afford to wait until then to do so. Postponed pull
 requests may be re-opened when the time is right. We don't have any formal
-process for that, you should ask members of the relevant sub-team.
+process for that, you should ask members of the relevant [sub-team].
 
 Usually an RFC pull request marked as “postponed” has already passed
 an informal first round of evaluation, namely the round of “do we
