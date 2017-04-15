@@ -77,7 +77,7 @@ is a good indication that the RFC is worth pursuing.
 
 [issues]: https://github.com/planetarytechnology/rfcs/issues
 [discuss]: https://discuss.planetary.technology
-[roadmap]: https://planetary.technology.roadmap.html
+[roadmap]: https://planetary.technology/roadmap.html
 
 
 ## What the process is
