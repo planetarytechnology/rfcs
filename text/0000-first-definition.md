@@ -37,6 +37,9 @@ Reason: Reduce environmental impact. Optimize resource regeneration.
 ### System optimization through data driven feedback
 Reason: Continuous system optimization for collective benefit
 
+### Modular Grid System
+Reason: Make physical modules/components fit together, in a simple conform way.
+
 # Drawbacks
 [drawbacks]: #drawbacks
 
