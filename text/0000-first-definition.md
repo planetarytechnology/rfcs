@@ -1,4 +1,4 @@
-- Feature Name: Proposal of basic rules
+- Feature Name: First proposal
 - Start Date: 2017-04-27
 - RFC PR: (leave this empty)
 - Relevant Issue: (leave this empty)
@@ -6,7 +6,7 @@
 # Summary
 [summary]: #summary
 
-With this RFC, we would like to get the stone rolling, by proposing some obvious basic rules.
+With this RFC, we would like to get the stone rolling, by proposing some basic definitions.
 
 # Motivation
 [motivation]: #motivation
@@ -43,7 +43,7 @@ Reason: Make physical modules/components fit together, in a simple conform way.
 # Drawbacks
 [drawbacks]: #drawbacks
 
-This list doesn't provide a thought through format of the list/standard.
+Needs a lot more details. Probaly separate RFCs, for all of the metioned topics.
 
 # Alternatives
 [alternatives]: #alternatives
